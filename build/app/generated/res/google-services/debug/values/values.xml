@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1036700915741-b65fdmnnje3kcpev5nsmusau11vc6t1h.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mis-s-nurse-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">1036700915741</string>
+    <string name="google_api_key" translatable="false">AIzaSyB6IeLhCQihDrhKALIY7WyFG6aVMa2_j8M</string>
+    <string name="google_app_id" translatable="false">1:1036700915741:android:872acae5f805fa466a4ef4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB6IeLhCQihDrhKALIY7WyFG6aVMa2_j8M</string>
+    <string name="google_storage_bucket" translatable="false">mis-s-nurse.appspot.com</string>
+    <string name="project_id" translatable="false">mis-s-nurse</string>
+</resources>
